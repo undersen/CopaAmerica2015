@@ -17,8 +17,22 @@
    text-align: center;   
 }
 
-h3
+h4
 {
 	 margin-top: 5px !important;
 	 	 margin-bottom: 0px !important;
+}
+.glyphicon-ok
+{
+  color: green;
+
+}
+
+.glyphicon-remove
+{
+  color: red;
+}
+.glyphicon
+{
+  margin: 2px;
 }
