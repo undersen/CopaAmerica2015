@@ -10,5 +10,15 @@
 }
 .thumb
 {
-	width: 50px;
+	width: 35px;
+}
+
+.table td {
+   text-align: center;   
+}
+
+h3
+{
+	 margin-top: 5px !important;
+	 	 margin-bottom: 0px !important;
 }
